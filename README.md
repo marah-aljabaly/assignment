@@ -1,5 +1,6 @@
 # Assignment to securing my place in the React & NextJS Training - Gaza Sky Geeks
 <h1>HTML & CSS Fundamentals</h1>
+* j
  * Task 1:
     Write an HTML page with the following:
     
