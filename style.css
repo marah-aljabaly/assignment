@@ -1,0 +1,38 @@
+/* general style */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin: 1rem 3rem;
+}
+
+/* Center the heading on the page. */
+.container h1.title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+/* Add a 1px border to the list and set the list’s background color to light gray. */
+.container ul {
+  border: 1px solid #ccc;
+  background-color: lightgray;
+  list-style-position: inside;
+  padding: 5px;
+}
+
+/* Make the list items bold and green. */
+.container ul li.product{
+  font-weight: bold;
+  color: green;
+  /* additional style */
+  font-size: 21px;
+}
