@@ -1,6 +1,6 @@
 # Assignment to securing my place in the React & NextJS Training - Gaza Sky Geeks
 <h1>HTML & CSS Fundamentals</h1>
-* Task 1:
+*    Task 1:
     Write an HTML page with the following:
     
     A heading with the text "Product List".
