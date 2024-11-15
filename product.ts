@@ -53,4 +53,4 @@ console.log(isValidEmail('mar8.@m.com'));
 // 1- npm install typescript --save-dev => install TS
 // 2- npx tsc --init => creact tsconfig.json file (ts compilor)
 // 3- npx tsc product.ts => convert TS to JS by creacting prodect.js file
-// 4- node product.js => run the code
+// 4- node product.js => run the code on terminal in VScode
